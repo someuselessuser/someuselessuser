@@ -1,2 +1,3 @@
 - @someuselessuser
-- python
+- py, c#, js
+- always bastard
